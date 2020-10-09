@@ -43,6 +43,12 @@ body {
 #post {
   background: white;
   padding: 1em;
+  justify-content: center;
+}
+
+img {
+  width: 90%;
+  margin: auto;
 }
 
 #footer {
