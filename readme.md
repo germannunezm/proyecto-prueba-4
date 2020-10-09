@@ -9,5 +9,6 @@ Un blog increíble para el curso de Git y Github de Platzi.
 ·El verdadero amor por las buenas prácticas
 ·Trucos muy locos del profesor
 ·Creado por el increíble Platzi Team
+·Incluye ejemplos varios
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
